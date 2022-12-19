@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:"roboto",sans-serif;
+}
+.container{
+    width: 0 px;
+    text-align: center;
+    margin: 50px 0;
+    font-size: 30px;
+    padding: auto;
+    color: rgb(2, 10, 16);
+ 
+}
+header{
+    height: 100px;
+    background-color: rgb(149, 20, 54);
+}
+header img{
+    padding-left: 100px;
+}
+nav{
+    height: 35px;
+    background-color: brown;
+}
+nav ul{
+    list-style: none;
+}
+nav .menu ul li{
+    float: left;
+    line-height: 35px;
+    padding: 0 15px;
+}
+nav .menu ul li a{
+    color:rgb(253, 255, 255);
+    font-size: 20px;
+    text-decoration: none;
+}
+nav .search{
+    line-height: 40px;
+    float: right;
+    margin-right: 40px;
+}
+footer{
+    width: auto;
+    background-color: brown;
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+
+}
